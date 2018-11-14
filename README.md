@@ -40,7 +40,7 @@ python manage.py runserver
 ```
 
 ## Push to Github
-Don't push your virtual environment folders, it won't be usable to everyone. 
+"Freeze" the current state of environment packages into requirements.txt so every person will have the same settings & versions. Don't push your virtual environment folders as is, b/c it won't be usable on every machine. 
 ```
 pip freeze > requirements.txt
 git add --all
