@@ -1,4 +1,4 @@
-# cmpe188project
+# Kaggle Competition Application 
 Note: make sure your system is running Python 3+ 
 
 ## Setting Up Virtual Environment 
